@@ -5,7 +5,7 @@
 
 ![1000002116](https://github.com/user-attachments/assets/1928d91c-04a6-4df7-ae57-9be69df00479)
 
-I am writing to express my interest in the Data Engineer position listed below. With over 20 years of hands-on experience in database development, designing, implementing, and managing robust database systems, I bring a proven track record of delivering complex solutions that meet and exceed business objectives. 
+I am a passionate full-stack developer with a strong background in Data Warehousing and Data Architecture. With over 20 years of hands-on experience in database development, designing, implementing, and managing robust database systems, I bring a proven track record of delivering complex solutions that meet and exceed business objectives. 
 
 Throughout my career, I have consistently leveraged my expertise in SQL programming and database architecture to design robust data models, streamline ETL processes, and ensure data integrity within high-volume environments. My proficiency extends across various database systems, including Oracle, SQL Server, MySQL, and PostgreSQL, enabling me to adapt quickly to diverse technological landscapes and deliver scalable solutions tailored to organizational needs.
 
