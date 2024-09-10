@@ -36,10 +36,5 @@ Crystie Johnson
 Senior Data Engineer | Driving Data-Driven Solutions | Expert in BI, ETL, Data Warehousing, and  Data Architecture
 
 BiDeveloperServices@gmail.com 
-Phone: 470.377.1316
-
-“Success is a journey, not a destination” 
-We are so often caught up in our destination that we forget to appreciate
-the journey, especially the goodness of the people we meet along the way.
 
 
