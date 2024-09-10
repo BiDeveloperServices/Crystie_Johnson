@@ -2,7 +2,6 @@
 # Welcome to Crystie Johnson's GitHub Profile
 
 ## 👋 Hi there! I'm Crystie Johnson 
-https://github.com/BiDeveloperServices/Resume
 
 ![1000002116](https://github.com/user-attachments/assets/1928d91c-04a6-4df7-ae57-9be69df00479)
 
@@ -32,10 +31,11 @@ I look forward to discussing how my skills and experience align with your organi
 
 
 Best regards,
-Crystie Johnson
+Crystie Johnson<br>
+Senior Data Engineer | Driving Data-Driven Solutions | Expert in BI, ETL, Data Warehousing, and  Data Architecture<br>
+BiDeveloperServices@gmail.com<br><br>
 
-Senior Data Engineer | Driving Data-Driven Solutions | Expert in BI, ETL, Data Warehousing, and  Data Architecture
-
-BiDeveloperServices@gmail.com 
+## 👋 Full Resume
+https://github.com/BiDeveloperServices/Resume
 
 
