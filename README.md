@@ -1,7 +1,7 @@
 
 # Welcome to Crystie Johnson's GitHub Profile
 
-## 👋 Hi there! I'm Crystie Johnson 
+## 👋 Greetings, I'm Crystie Johnson 
 
 ![1000002116](https://github.com/user-attachments/assets/1928d91c-04a6-4df7-ae57-9be69df00479)
 
