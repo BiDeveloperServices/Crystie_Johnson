@@ -27,7 +27,7 @@ Integrating ERP systems with ServiceNow for streamlined change management, ensur
 
  I am eager to bring my wealth of experience and technical acumen to your esteemed organization, contributing to ongoing projects and initiatives while driving innovation in database management. I am particularly drawn to this opportunity due to the innovative and cutting-edge technology, and am excited about the opportunity to contribute to your continued success.
 
-Thank you for considering my application. I look forward to discussing how my skills and experience align with this opportunity. Please find my resume attached for your review. I am available at your earliest convenience for a discussion or interview.
+I look forward to discussing how my skills and experience align with your organization opportunities. I am available at your earliest convenience for a discussion and/or interview.
 
 
 Best regards,
