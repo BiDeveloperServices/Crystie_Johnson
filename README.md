@@ -9,9 +9,16 @@ I am a passionate full-stack developer with a strong background in Data Warehous
 <br>
 Throughout my career, I have consistently leveraged my expertise in SQL programming and database architecture to design robust data models, streamline ETL processes, and ensure data integrity within high-volume environments. My proficiency extends across various database systems, including Oracle, SQL Server, Teradata, MySQL, and PostgreSQL, enabling me to adapt quickly to diverse technological landscapes and deliver scalable solutions tailored to organizational needs.
 <br><br>
-In my previous roles, I led the design, development, ETL Framework, and maintenance of enterprise-level database systems. I have successfully optimized database performance through advanced indexing and query tuning, implemented robust security measures, and led data migration projects to modernize legacy systems. My ability to collaborate with cross-functional teams and mentor junior developers has been instrumental in driving project success and fostering a culture of continuous improvement.<br><br>
-Highlights of my qualifications include: <br>
+In my previous roles, I led the design, development, ETL Framework, and maintenance of enterprise-level database systems. I have successfully optimized database performance through advanced indexing and query tuning, implemented robust security measures, and led data migration projects to modernize legacy systems. My ability to collaborate with cross-functional teams and mentor junior developers has been instrumental in driving project success and fostering a culture of continuous improvement.<br>
+
+Highlights of my qualifications include:<br>
+
 Expertise in Database Design: Demonstrated ability to architect and implement database solutions that enhance performance, reliability, and scalability.<br><br>
+Data Warehousing: Designed Developed and implementing scalable Data Warehouse / Data Mart solutions tailored to business needs from life cycle. Data Integration - Integrating disparate data sources to provide unified, actionable insights.
+ETL Frameworks: Developing robust ETL pipelines for efficient data extraction, transformation, and loading. Proficient and advanced documentations writing skills to capture requirements and other project details.<br>
+
+
+BI Analytics: Utilizing BI tools and methodologies to empower stakeholders with critical business insights.
 Optimization and Performance Tuning: Proven track record in optimizing SQL queries, stored procedures, and indexing strategies to improve overall database performance.<br>
 <br>
 Integrating ERP systems with ServiceNow for streamlined change management, ensuring data integrity and optimal performance. I leverage my technical acumen and strategic insights to enhance operational workflows, support data-driven decision-making, and align IT infrastructure with business objectives.<br><br>
