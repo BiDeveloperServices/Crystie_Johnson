@@ -3,8 +3,11 @@
 
 ## 👋 Greetings, I'm Crystie Johnson 
 
-![1000002116](https://github.com/user-attachments/assets/1928d91c-04a6-4df7-ae57-9be69df00479)
+<img width="1440" height="1440" alt="IMG_0555" src="https://github.com/user-attachments/assets/f25aec28-b510-4f2a-a20a-c16cdb6bd83d" />
 
+<!--
+![1000002116](https://github.com/user-attachments/assets/1928d91c-04a6-4df7-ae57-9be69df00479)
+-->
 
 Results-driven Senior Data Architect and Data Engineering Leader with over 20 years of experience designing, modernizing, and operationalizing enterprise-scale data platforms, cloud migration initiatives, and advanced analytics ecosystems across Azure, Databricks, AWS, and hybrid enterprise environments. Extensive expertise building scalable data ingestion pipelines capable of processing structured, semi-structured, and unstructured data from batch and real-time streaming sources including APIs, relational databases, flat files, message queues, and distributed cloud platforms.
 <br><br>
