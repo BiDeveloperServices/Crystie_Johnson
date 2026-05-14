@@ -53,6 +53,4 @@ BiDeveloperServices@gmail.com
 <br><br>
 
 ## 👋 Full Resume
-https://github.com/BiDeveloperServices/Resume
-
-
+<br/><a href="https://github.com/BiDeveloperServices/Resume/blob/main/Crystie%20Johnson%20Resume%202026.pdf/">Professional Resume</a></h1>
